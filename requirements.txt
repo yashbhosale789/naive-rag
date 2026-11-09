@@ -1,0 +1,12 @@
+# Versions measured in Phase 16.0 (Python 3.13, 2026-11-07)
+langchain-core==1.5.3
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+langchain-chroma==1.1.0
+chromadb==1.5.9
+sentence-transformers==5.6.1
+torch==2.14.1
+pypdf==6.21.4
+unstructured==0.25.0  # .md and .docx loaders
+requests==2.34.2
+python-dotenv==1.2.2
